@@ -1,0 +1,8 @@
+streamlit
+langchain
+requests
+python-dotenv
+pandas
+transformers
+langchain_community
+langchain-groq
